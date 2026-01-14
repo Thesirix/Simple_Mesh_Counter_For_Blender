@@ -33,6 +33,6 @@ Below is an illustration showing a visual representation of the polygon counting
 
 ![Polygon Count](count_poly.png)
 
-## 🤝 Contributing
+## ❤️ Contributing
 
 If you have suggestions for improvements or encounter any issues, feel free to open an issue or submit a pull request.
